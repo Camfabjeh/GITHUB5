@@ -1,3 +1,5 @@
+LOCAL
+
 # GITHUB5
 
 Une première ligne,
